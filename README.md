@@ -1,8 +1,8 @@
-# X03-IA
+# X04-IA
 Essa é uma inteligência artificial gratuita, mas gostaria que você me ajuda-se a melhora-lá!
 
 
-🚀 X03 — IA Assistente Android
+🚀 X04 — IA Assistente Android
 
 Esta é a primeira versão oficial do X03, um aplicativo de inteligência artificial criado para Android.
 
