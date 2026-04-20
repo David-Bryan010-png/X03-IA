@@ -37,7 +37,7 @@ O X03 foi desenvolvido para atuar como um assistente inteligente, capaz de respo
 1. Baixe o APK pelo botão acima  
 2. Ative “instalar apps desconhecidos” no Android  
 3. Instale o aplicativo  
-4. Abra o X03  
+4. Abra o X04
 5. Comece a usar a IA
 
 ---
