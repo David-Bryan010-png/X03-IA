@@ -25,7 +25,7 @@ O X03 foi desenvolvido para atuar como um assistente inteligente, capaz de respo
 👉 Clique no botão abaixo para baixar o aplicativo:
 
 <p align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1NSVVKD2pGWwdxLJ6pEiTP5yw-9P6WGsc">
+  <a href="https://drive.google.com/file/d/1g6Q5eGaBnAOt0LVlA3DAb2KtmCNnSO1x/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/⬇️%20Download%20APK-X03-blue?style=for-the-badge&logo=android" alt="Download X03">
   </a>
 </p>
